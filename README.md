@@ -15,7 +15,7 @@ How to use :
 
 
 
-For technical information, please refer to the documentation text file.
+For technical information, please refer to [The Documentation](https://github.com/Apllify/CreativeAssignment1/wiki)
 
 
 If you have any further questions, feel free to contact me at : rlahlou6@gmail.com or just send it in the game dev groupchat !
