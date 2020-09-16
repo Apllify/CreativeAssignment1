@@ -14,6 +14,7 @@ How to use :
 - Open the file named "your_game.py" and write your code there.
 
 
+
 For technical information, please refer to the documentation text file.
 
 
