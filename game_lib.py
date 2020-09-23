@@ -54,7 +54,7 @@ def set_grid_element_at(x, y, value):
     if len(value) != 1:
         raise Exception("Value must be string of length 1 (one)")
         
-    grid[x * grid_width + y] = value
+    grid[y * grid_width + x] = value
     
     
     
