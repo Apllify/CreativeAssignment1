@@ -23,7 +23,7 @@ while(True):
     
     try:
         x = int(x)
-        y = int(x)
+        y = int(y)
     except:
         print("Veuillez entrez des coordonnées valides !")
         continue 
